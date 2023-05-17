@@ -1,0 +1,10 @@
+Channels
+BetaII-Spectrin - Cuticular Plate
+GammaTubulin - Basal Bodies
+Z01 - Boundaries
+
+Right Utricle
+
+WT
+
+Date: 20210617
